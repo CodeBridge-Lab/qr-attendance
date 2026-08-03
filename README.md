@@ -41,14 +41,11 @@ A full-stack web application that automates classroom attendance using QR codes,
 - ♿ Keyboard focus styles and reduced-motion support for improved accessibility
 - 🌗 Persistent theme preference across sessions
 
-> [!IMPORTANT]
-> The frontend has been redesigned and compiled into Spring Boot's static resources. The backend architecture, REST endpoints, validation flow, and database behaviour remain unchanged.
-
 ---
 
 ## 🛠️ **TECHNOLOGY STACK**
 
-### 🔒 **Backend and infrastructure — unchanged**
+### 🔒 **Backend and infrastructure**
 
 | **Layer** | **Technology** |
 |:---|:---|
@@ -59,7 +56,7 @@ A full-stack web application that automates classroom attendance using QR codes,
 | **QR Generation** | **ZXing (Google)** |
 | **Deployment** | **Render (Docker), GitHub** |
 
-### 🎨 **Frontend — upgraded**
+### 🎨 **Frontend**
 
 | **Layer** | **Technology** |
 |:---|:---|
