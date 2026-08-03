@@ -101,23 +101,13 @@ A full-stack web application that automates classroom attendance using QR codes,
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Stars)
-![GitHub forks](https://img.shields.io/github/forks/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Forks)
-![GitHub last commit](https://img.shields.io/github/last-commit/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Last%20Commit)
-![GitHub repo size](https://img.shields.io/github/repo-size/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Repo%20Size)
+![GitHub stars](https://img.shields.io/github/stars/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&color=21262d)
+![GitHub forks](https://img.shields.io/github/forks/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&color=21262d)
+![GitHub repo size](https://img.shields.io/github/repo-size/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&color=21262d)
 
-</div>
+<br/>
 
-### Most Used Languages
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-95.63%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-3.46%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-0.91%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Top language](https://img.shields.io/github/languages/top/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Top%20Language)
-![Language count](https://img.shields.io/github/languages/count/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Languages)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBridge-Lab&repo=qr-attendance&layout=compact&theme=dark" alt="Top Languages" />
 
 </div>
 ---
