@@ -116,11 +116,10 @@ A full-stack web application that automates classroom attendance using QR codes,
 ![HTML](https://img.shields.io/badge/HTML-3.46%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-0.91%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top language](https://img.shields.io/github/languages/top/CodeBridge-Lab/qr-attendance?style=flat-square&logo=github&label=Top%20Language)
-![Language count](https://img.shields.io/github/languages/count/CodeBridge-Lab/qr-attendance?style=flat-square&logo=github&label=Languages)
+![Top language](https://img.shields.io/github/languages/top/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Top%20Language)
+![Language count](https://img.shields.io/github/languages/count/CodeBridge-Lab/qr-attendance?style=for-the-badge&logo=github&label=Languages)
 
 </div>
-
 ---
 
 ## 🧭 Application Flow
